@@ -24,6 +24,10 @@ let con = mysql.createConnection({
   database: "mydb_node_2025"
 });
 
+
+
+
+
 // con.connect(function(err) {
 //   if (err) throw err;
 //   console.log("Connected!");
